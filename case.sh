@@ -25,7 +25,7 @@ case $COUNTRY in
   China | "zz") #branch test
     echo -n "Chinese"
     ;;
-#branch test, hot fix
+#branch test, hot fix, #from test for conflict
 
   *)
     echo -n "unknown"
