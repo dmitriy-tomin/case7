@@ -22,6 +22,9 @@ case $COUNTRY in
   Russian | "Moscow") #branch test
     echo -n "Russian"
     ;;
+  China | "zz") #branch test
+    echo -n "Chinese"
+    ;;
 
 
   *)
