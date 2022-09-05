@@ -19,6 +19,11 @@ case $COUNTRY in
     echo -n "Italian"
     ;;
 
+  Russian | "Moscow") #branch test
+    echo -n "Russian"
+    ;;
+
+
   *)
     echo -n "unknown"
     ;;
